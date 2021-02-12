@@ -1,4 +1,4 @@
-# number_multiple
+# NUMBER MULTIPLE
 
 ## Requirements
 
